@@ -26,7 +26,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/challenge.png
     title: "VIPriors challenges"
-    excerpt: "Including data-efficient **action recognition**, **classification**, **detection** and **segmentation**.<br /><br />[**Final rankings**](https://vipriors.github.io/challenges/#final-rankings) are out now."
+    excerpt: "Including data-efficient **action recognition**, **classification**, **detection** and **segmentation**.<br /><br />[**Final rankings**](https://vipriors.github.io/2020/challenges/#final-rankings) are out now."
     url: "challenges"
     btn_label: "Read More"
     btn_class: "btn--primary"

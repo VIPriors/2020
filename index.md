@@ -10,23 +10,23 @@ excerpt: "<span class='header-marking'>ECCV 2020</span><br/><span class='header-
 intro:
   - excerpt: 'Saving data by adding visual knowledge priors to Deep Learning'
 feature_row:
-  - image_path: /assets/images/callforpapers.png
+  - image_path: assets/images/callforpapers.png
     alt: "placeholder image 2"
     title: "Call for papers"
     excerpt: "We invite researchers to submit their recent work on data-efficient computer vision.<br /><br />**Accepted works** are included in [the program](#workshop-program)."
     url: "#call-for-papers"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/poster.png
+  - image_path: assets/images/poster.png
     alt: "placeholder image 2"
     title: "Present a poster"
     excerpt: "We invite researchers to present their recent papers on data-efficient computer vision.<br /><br />**Accepted posters** are included in [the program](#workshop-program)."
     url: "#posters"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/challenge.png
+  - image_path: assets/images/challenge.png
     title: "VIPriors challenges"
-    excerpt: "Including data-efficient **action recognition**, **classification**, **detection** and **segmentation**.<br /><br />[**Final rankings**](https://vipriors.github.io/2020/challenges/#final-rankings) are out now."
+    excerpt: "Including data-efficient **action recognition**, **classification**, **detection** and **segmentation**.<br /><br />[**Final rankings**](challenges/#final-rankings) are out now."
     url: "challenges"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -156,7 +156,7 @@ Our live program featured a panel discussion with our [invited speakers](#invite
 
 We presented the "Visual Inductive Priors for Data-Efficient Computer Vision" challenges. We offered four challenges, where models are to be trained from scratch, and we reduced the number of training samples to a fraction of the full set.
 
-Please see the [challenges page](/challenges) for the results of the challenges.
+Please see the [challenges page](challenges) for the results of the challenges.
 
 ## Invited speakers
 

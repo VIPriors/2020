@@ -6,7 +6,7 @@ permalink: /challenges/
 toc: true
 ---
 
-<img src='/assets/images/logo_challenge.png' style='display: block; margin: 0 auto; width: 40%; min-width: 200px;' />
+<img src="{{ '/assets/images/logo_challenge.png' | prepend: site.baseurl }}" style='display: block; margin: 0 auto; width: 40%; min-width: 200px;' />
 
 _The challenges have concluded. We thank all participants and welcome all to participate in next year's challenges!_
 

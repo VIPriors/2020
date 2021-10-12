@@ -1,6 +1,8 @@
 ---
 layout: single
 title: About
+header:
+  overlay_image: assets/images/header_background_centered.png
 permalink: /about/
 ---
 
